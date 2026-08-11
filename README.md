@@ -1,1 +1,1 @@
-Debgging challenge
+Debugging challenge
